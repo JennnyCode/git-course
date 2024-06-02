@@ -5,5 +5,3 @@ terminating the connections
 
 change1
 
-change2 in harsh's database
-
